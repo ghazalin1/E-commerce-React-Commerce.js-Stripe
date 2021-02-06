@@ -8,7 +8,7 @@
 
 # Stripe Integrated 
 
-This is a Very Good E-Commerce Application in React created with commerce.js 
+This is a Very Good Full Stack E-Commerce Application in React created with commerce.js 
 
 A very creative and fun e-commerce project to play with React
 
